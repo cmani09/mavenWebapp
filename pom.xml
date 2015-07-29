@@ -4,7 +4,7 @@
 
   <groupId>org.mani.javabrain</groupId>
   <artifactId>mywebapp</artifactId>
-  <version>3.0.3_1.1-SNAPSHOT</version>
+  <version>4.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>mywebapp</name>
